@@ -1,6 +1,7 @@
 # Project stuff
-sm4shbot.log
 config.json
+sm4shbot.log
+smashbotConfig.json
 target/
 irc/target
 
