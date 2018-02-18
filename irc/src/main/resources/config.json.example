@@ -1,0 +1,5 @@
+{
+  "name": "sm4shbot",
+  "server": "irc.freenode.net",
+  "channel": "#sm4shchannel"
+}

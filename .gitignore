@@ -1,3 +1,13 @@
+# Project stuff
+sm4shbot.log
+config.json
+target/
+irc/target
+
+# Other stuff
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
